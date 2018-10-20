@@ -1,0 +1,17 @@
+pytz
+requests
+sqlalchemy
+pymysql
+itsdangerous
+passlib
+Pillow
+gunicorn
+flask
+flask_restful
+flask_admin
+flask_babelex
+flask_sqlalchemy
+flask_login
+flask_principal
+flask_security
+flask_migrate
